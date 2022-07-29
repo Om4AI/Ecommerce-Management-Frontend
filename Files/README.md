@@ -1,2 +1,2 @@
-# College-Fest-Management-Frontend
-Frontend codes for College Fest Management system
+# Ecommerce-Management-Frontend
+Frontend codes for Ecommerce Management system
